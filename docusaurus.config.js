@@ -7,13 +7,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'MIT 4102',
   tagline: 'Special Topics in MIT: Arts Based Entrepreneurship',
   url: 'https://mit4102.brettpetch.ca',
-  baseUrl: '/',
+    baseUrl: '/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'brettpetch', // Usually your GitHub org/user name.
   projectName: 'MIT-4102', // Usually your repo name.
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -21,7 +21,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/brettpetch/MIT-4102/edit/main/website/',
+          editUrl: 'https://github.com/brettpetch/mit-4102/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -93,6 +93,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       prism: {
         theme: darkCodeTheme,
         lightTheme: lightCodeTheme,
-      },
+          },
     }),
 });
