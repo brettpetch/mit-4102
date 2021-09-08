@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'MIT 4102',
   tagline: 'Special Topics in MIT: Arts Based Entrepreneurship',
   url: 'https://mit4102.brettpetch.ca',
-  githubHost: 'mit4102.brettpetch.ca',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
