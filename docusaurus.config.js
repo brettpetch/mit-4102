@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'MIT 4102',
-  tagline: 'Special Topics in MIT: Environment, Animals, Culture and Communication',
+  tagline: 'Special Topics in MIT: Arts Based Entrepreneurship',
   url: 'https://mit4102.brettpetch.ca',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -70,7 +70,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/352055548436545547',
               },
               {
                 label: 'Twitter',
