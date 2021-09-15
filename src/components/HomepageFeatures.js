@@ -7,8 +7,14 @@ const FeatureList = [
     title: 'For Next Class:',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
-        Pick a business, talk to people about them, descern those 3 things. What lights them up, how do they communicate it, how do you know that's what's happening?
+        <>
+            Do the same thing but with Prof's business (skills, values/mission, ica). You can find her at
+            <ul>
+                <li><a href="https://sheepspot.com">Sheepspot Website</a></li>
+                <li><a href="https://twitter.com/sheepspot?lang=en">Twitter</a></li>
+                <li><a href="https://www.instagram.com/sheepspot/?hl=en">Instagram</a></li>
+                <li><a href="https://www.facebook.com/sheepspotyarns/">Facebook</a></li>
+            </ul>
       </>
     ),
   },
