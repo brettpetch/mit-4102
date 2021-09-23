@@ -8,12 +8,9 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
         <>
-            Do the same thing but with Prof's business (skills, values/mission, ica). You can find her at
+            Ask yourself:
             <ul>
-                <li><a href="https://sheepspot.com">Sheepspot Website</a></li>
-                <li><a href="https://twitter.com/sheepspot?lang=en">Twitter</a></li>
-                <li><a href="https://www.instagram.com/sheepspot/?hl=en">Instagram</a></li>
-                <li><a href="https://www.facebook.com/sheepspotyarns/">Facebook</a></li>
+                <li>What am I good at?</li>
             </ul>
       </>
     ),
@@ -32,7 +29,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Sept. 15, 2021
+        Sept. 29, 2021
       </>
     ),
   },
