@@ -50,6 +50,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             href: 'https://github.com/brettpetch/MIT-4102',
             label: 'GitHub',
             position: 'right',
+            },
+          {
+            href: 'https://owl.uwo.ca/portal/site/71a95677-06f5-4fe7-9055-a7e48716f888/page/53db5ab5-5c28-4a18-b864-bcb3eb2edb6e',
+            label: 'OWL',
+            position: 'right',
           },
         ],
       },
