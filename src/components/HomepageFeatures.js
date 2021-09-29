@@ -8,9 +8,10 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
         <>
-            Ask yourself:
+            To Do:
             <ul>
-                <li>What am I good at?</li>
+                <li>Skills and Talents Exercise Due</li>
+                <li>Group Presentations (Lisa Congdon, Art, Inc.)</li>
             </ul>
       </>
     ),
@@ -29,7 +30,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Sept. 29, 2021
+        October. 6, 2021
       </>
     ),
   },
