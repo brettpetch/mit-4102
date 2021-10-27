@@ -22,7 +22,9 @@ module.exports = {
             "lecture/intro",
             "lecture/week2",
             "lecture/week3",
-            "lecture/week4"
+            "lecture/week4",
+            "lecture/week5",
+            "lecture/week6"
           ],
         },
     ]
